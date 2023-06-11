@@ -1,0 +1,12 @@
+The repository bikash4044/Project8sem contains a file Final.ipynb that cotains two set of code as contained in SCS.py and DLT.py respectively.
+Both the codes work fine when run using .ipynb files i.e in jupyter notebook.
+I want to run them using .py files....which i felt difficult so i though of rendering them to front end using flask.
+In flask, i can manage the alphanumeric output.
+
+But my motto is to diplay the geographical map of a area using shapefile.
+For this visualisation, I am unable to use Flask.
+
+Is there anyway that i can do this project?
+
+
+Plz help me with this Problem
